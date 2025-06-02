@@ -4,4 +4,5 @@
 *.out           # common for gcc output
 *.bin           # generic binaries
 *.elf           # common for embedded targets
+*.
 
