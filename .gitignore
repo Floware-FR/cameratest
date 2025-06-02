@@ -1,2 +1,7 @@
 *.mp4
 *.mjpeg
+*.exe           # for Windows executables
+*.out           # common for gcc output
+*.bin           # generic binaries
+*.elf           # common for embedded targets
+
